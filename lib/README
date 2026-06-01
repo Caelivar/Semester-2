@@ -1,0 +1,4 @@
+This directory is for private project libraries.
+
+The current semester skeleton keeps the motor driver module inside src/ to
+match the first semester project style.
